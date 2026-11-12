@@ -12,42 +12,42 @@
 <br>
 
 <p align="center">
-  <b>El cliente de escritorio para Firebase Firestore.</b><br>
-  Explora, edita y consulta tus datos sin salir del escritorio, con todo el procesamiento en local.
+  <b>The desktop client for Firebase Firestore.</b><br>
+  Browse, edit and query your data without leaving your desktop, with everything processed locally.
 </p>
 
 <p align="center">
-  <a href="https://treeo.app"><img alt="Sitio web" src="https://img.shields.io/badge/treeo.app-15D58A?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
-  <a href="https://treeo.app/docs"><img alt="Documentación" src="https://img.shields.io/badge/Documentaci%C3%B3n-0B1F17?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
-  <a href="https://treeo.app/#pricing"><img alt="Descargar para macOS" src="https://img.shields.io/badge/Descargar_para_macOS-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
+  <a href="https://treeo.app"><img alt="Website" src="https://img.shields.io/badge/treeo.app-15D58A?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+  <a href="https://treeo.app/docs"><img alt="Documentation" src="https://img.shields.io/badge/Documentation-0B1F17?style=for-the-badge&logo=readthedocs&logoColor=white"></a>
+  <a href="https://treeo.app/#pricing"><img alt="Download for macOS" src="https://img.shields.io/badge/Download_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white"></a>
 </p>
 
 ---
 
-## ¿Qué es Treeo?
+## What is Treeo?
 
-Treeo es una app nativa de macOS pensada para desarrolladores que trabajan a diario con Firestore. Reemplaza las vueltas a la consola web por una interfaz rápida, con pestañas, tipos exactos y scripts, conectada directamente a tu proyecto mediante el Admin SDK.
+Treeo is a native macOS app built for developers who work with Firestore every day. It replaces endless trips to the web console with a fast interface featuring tabs, exact field types and scripts, connected directly to your project through the Admin SDK.
 
-| Función | Qué hace |
+| Feature | What it does |
 |---|---|
-| 🗂️ **Panel de detalle vertical** | Cada documento se abre como una pila de bloques editables, uno por campo, con su tipo exacto: string, number, boolean, timestamp, map, array, reference y geopoint. |
-| 🔎 **Consultas visuales** | Filtra con `where`, ordena con `orderBy` y limita colecciones desde una barra de herramientas, con paginación por cursor. |
-| ⚡ **Scripts de JavaScript** | Editor integrado con autocompletado que ejecuta Node.js real contra tu proyecto, ideal para migraciones y consultas avanzadas. |
-| 📊 **Vista de tabla y JSON** | Tabla virtualizada para colecciones grandes, o edición del documento completo como JSON. |
-| 📦 **Importación y exportación** | JSON y CSV, documento por documento o la conexión entera. |
-| 👥 **Firebase Auth** | Lista, edita y elimina usuarios de Authentication desde la misma app. |
-| 🧪 **Emulador de Firestore** | Conéctate al emulador local igual que a un proyecto en producción. |
-| 🔒 **Todo en local** | Las credenciales se guardan cifradas en tu máquina. Sin servidores intermedios. |
+| 🗂️ **Vertical detail panel** | Every document opens as a stack of editable blocks, one per field, with its exact type: string, number, boolean, timestamp, map, array, reference and geopoint. |
+| 🔎 **Visual queries** | Filter with `where`, sort with `orderBy` and limit collections from a toolbar, with cursor-based pagination. |
+| ⚡ **JavaScript scripts** | Built-in editor with autocomplete that runs real Node.js against your project, perfect for migrations and advanced queries. |
+| 📊 **Table and JSON views** | A virtualized table for large collections, or edit the whole document as JSON. |
+| 📦 **Import and export** | JSON and CSV, one document at a time or the entire connection. |
+| 👥 **Firebase Auth** | List, edit and delete Authentication users from the same app. |
+| 🧪 **Firestore Emulator** | Connect to the local emulator just like a production project. |
+| 🔒 **Fully local** | Credentials are stored encrypted on your machine. No middleman servers. |
 
-## Empezar
+## Getting started
 
-1. Descarga la última versión desde [treeo.app](https://treeo.app).
-2. Abre la app y carga el JSON de la cuenta de servicio de tu proyecto.
-3. Sigue la guía paso a paso en [treeo.app/docs](https://treeo.app/docs).
+1. Download the latest version from [treeo.app](https://treeo.app).
+2. Open the app and load your project's service account JSON.
+3. Follow the step-by-step guide at [treeo.app/docs](https://treeo.app/docs).
 
-Consulta la [hoja de ruta](https://treeo.app/docs/roadmap) para ver qué viene después. Windows y Linux, próximamente.
+Check out the [roadmap](https://treeo.app/docs/roadmap) to see what's coming next. Windows and Linux coming soon.
 
-## Construido con
+## Built with
 
 <p>
   <img alt="Electron" src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white">
@@ -58,11 +58,11 @@ Consulta la [hoja de ruta](https://treeo.app/docs/roadmap) para ver qué viene d
   <img alt="Astro" src="https://img.shields.io/badge/Astro-17191E?style=flat-square&logo=astro&logoColor=white">
 </p>
 
-## Contacto y soporte
+## Contact and support
 
-- 💬 Dudas y soporte: [hello@treeo.app](mailto:hello@treeo.app)
-- 🛡️ Seguridad: lee nuestra [política de seguridad](https://github.com/Treeo-App/.github/blob/main/SECURITY.md) antes de reportar una vulnerabilidad.
-- 🤝 Equipo: consulta la [guía de contribución](https://github.com/Treeo-App/.github/blob/main/CONTRIBUTING.md).
+- 💬 Questions and support: [hello@treeo.app](mailto:hello@treeo.app)
+- 🛡️ Security: read our [security policy](https://github.com/Treeo-App/.github/blob/main/SECURITY.md) before reporting a vulnerability.
+- 🤝 Team: see the [contributing guide](https://github.com/Treeo-App/.github/blob/main/CONTRIBUTING.md).
 
 <br>
 
@@ -72,5 +72,5 @@ Consulta la [hoja de ruta](https://treeo.app/docs/roadmap) para ver qué viene d
     <img src="https://raw.githubusercontent.com/Treeo-App/.github/main/profile/assets/logo-light.svg" alt="Treeo" width="140">
   </picture>
   <br>
-  <sub>© Treeo. Todos los derechos reservados.</sub>
+  <sub>© Treeo. All rights reserved.</sub>
 </p>

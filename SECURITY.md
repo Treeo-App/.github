@@ -1,12 +1,12 @@
-# Política de seguridad
+# Security policy
 
-## Reportar una vulnerabilidad
-Si encuentras una vulnerabilidad en cualquier repositorio de Treeo-App, no abras un issue público ni la menciones en un PR. Repórtala de forma privada usando la opción Security > Report a vulnerability del repositorio afectado, o escribe al responsable del proyecto (@erikodes) por mensaje privado.
+## Reporting a vulnerability
+If you find a vulnerability in any Treeo-App repository, do not open a public issue or mention it in a PR. Report it privately using the **Security > Report a vulnerability** option of the affected repository, or send a private message to the project maintainer (@erikodes).
 
-Intentamos confirmar la recepción en pocos días y mantener informado a quien reporta hasta que se corrija.
+We aim to acknowledge reports within a few days and keep the reporter informed until the issue is fixed.
 
-## Secretos y datos sensibles
-Nunca se hacen commits de credenciales, claves de cuenta de servicio, certificados de firma, tokens ni archivos .env. Si un secreto se expone por error, hay que rotarlo de inmediato y avisar al responsable.
+## Secrets and sensitive data
+Credentials, service account keys, signing certificates, tokens and `.env` files are never committed. If a secret is accidentally exposed, it must be rotated immediately and the maintainer notified.
 
-## Flujo de ramas
-Todo cambio entra por Pull Request hacia develop. La rama main representa producción y solo recibe PRs desde develop.
+## Branch workflow
+Every change goes through a Pull Request into `develop`. The `main` branch represents production and only receives PRs from `develop`.

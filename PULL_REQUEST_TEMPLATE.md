@@ -1,14 +1,14 @@
-## Descripción
-Qué cambia y por qué.
+## Description
+What changes and why.
 
-## Tipo de cambio
-feat / fix / docs / chore / refactor / test (indica cuál)
+## Type of change
+feat / fix / docs / chore / refactor / test (specify which)
 
-## Cómo se probó
-Resultado de los chequeos locales (typecheck, tests, build) y pruebas manuales realizadas.
+## How it was tested
+Results of local checks (typecheck, tests, build) and any manual testing performed.
 
 ## Checklist
-- [ ] El PR apunta a `develop` (nunca directo a `main`, salvo el PR de release)
-- [ ] No incluye secretos, credenciales ni archivos .env
-- [ ] Documentación actualizada si aplica
-- [ ] Los checks de CI pasan
+- [ ] The PR targets `develop` (never `main` directly, except for the release PR)
+- [ ] It does not include secrets, credentials or `.env` files
+- [ ] Documentation updated if applicable
+- [ ] CI checks pass

@@ -1,7 +1,7 @@
-# Soporte
+# Support
 
-¿Necesitas ayuda con Treeo?
+Need help with Treeo?
 
-- **Documentación:** la mayoría de las dudas se resuelven en [treeo.app/docs](https://treeo.app/docs).
-- **Soporte por correo:** escríbenos a [hello@treeo.app](mailto:hello@treeo.app) indicando tu versión de Treeo y de macOS.
-- **Vulnerabilidades de seguridad:** no las reportes por correo público ni en issues; sigue la [política de seguridad](SECURITY.md).
+- **Documentation:** most questions are answered at [treeo.app/docs](https://treeo.app/docs).
+- **Email support:** write to us at [hello@treeo.app](mailto:hello@treeo.app) and include your Treeo and macOS versions.
+- **Security vulnerabilities:** do not report them by public email or in issues; follow the [security policy](SECURITY.md).

@@ -1,16 +1,16 @@
-# Guía de contribución
+# Contributing guide
 
-## Ramas
-main es producción: protegida, solo recibe PRs desde develop. develop es la rama de integración: todos los PRs van aquí. Las ramas de trabajo salen de develop con prefijos feat/, fix/, chore/, docs/ o refactor/ (ejemplo: feat/pinned-collections).
+## Branches
+`main` is production: it is protected and only receives PRs from `develop`. `develop` is the integration branch: all PRs go there. Working branches are created from `develop` with the prefixes `feat/`, `fix/`, `chore/`, `docs/` or `refactor/` (for example: `feat/pinned-collections`).
 
-## Flujo
-Crea tu rama desde develop, haz commits pequeños, abre un PR hacia develop y espera a que pasen los checks. Cuando develop esté estable, se abre un PR de develop hacia main para liberar a producción.
+## Workflow
+Create your branch from `develop`, make small commits, open a PR against `develop` and wait for the checks to pass. Once `develop` is stable, a PR from `develop` to `main` is opened to release to production.
 
 ## Commits
-Usamos Conventional Commits: feat:, fix:, docs:, chore:, refactor:, test:.
+We use Conventional Commits: `feat:`, `fix:`, `docs:`, `chore:`, `refactor:`, `test:`.
 
-## Antes de abrir el PR
-Verifica localmente que pasen los chequeos del proyecto (typecheck, tests y build, según el repositorio).
+## Before opening a PR
+Make sure the project checks pass locally (typecheck, tests and build, depending on the repository).
 
-## Seguridad
-Nunca subas credenciales, claves de cuenta de servicio ni archivos .env. Lee SECURITY.md.
+## Security
+Never commit credentials, service account keys or `.env` files. Read [SECURITY.md](SECURITY.md).
