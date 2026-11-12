@@ -1,5 +1,5 @@
 <a href="https://treeo.app">
-  <img src="./assets/banner.png" alt="Treeo: tus datos de Firestore, por fin organizados" width="100%">
+  <img src="https://raw.githubusercontent.com/Treeo-App/.github/main/profile/assets/banner.png" alt="Treeo: tus datos de Firestore, por fin organizados" width="100%">
 </a>
 
 <p align="center">
@@ -19,7 +19,7 @@
 
 Treeo es una app nativa de macOS pensada para desarrolladores que trabajan a diario con Firestore. Reemplaza las vueltas a la consola web por una interfaz rápida, con pestañas, tipos exactos y scripts, conectada directamente a tu proyecto mediante el Admin SDK.
 
-| | |
+| Función | Qué hace |
 |---|---|
 | 🗂️ **Panel de detalle vertical** | Cada documento se abre como una pila de bloques editables, uno por campo, con su tipo exacto: string, number, boolean, timestamp, map, array, reference y geopoint. |
 | 🔎 **Consultas visuales** | Filtra con `where`, ordena con `orderBy` y limita colecciones desde una barra de herramientas, con paginación por cursor. |
@@ -59,8 +59,8 @@ Consulta la [hoja de ruta](https://treeo.app/docs/roadmap) para ver qué viene d
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/logo-dark.svg">
-    <img src="./assets/logo-light.svg" alt="Treeo" width="140">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Treeo-App/.github/main/profile/assets/logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/Treeo-App/.github/main/profile/assets/logo-light.svg" alt="Treeo" width="140">
   </picture>
   <br>
   <sub>© Treeo. Todos los derechos reservados.</sub>
