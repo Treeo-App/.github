@@ -1,6 +1,15 @@
-<a href="https://treeo.app">
-  <img src="https://raw.githubusercontent.com/Treeo-App/.github/main/profile/assets/banner.png" alt="Treeo: tus datos de Firestore, por fin organizados" width="100%">
-</a>
+<br>
+
+<p align="center">
+  <a href="https://treeo.app">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Treeo-App/.github/main/profile/assets/logo-dark.svg">
+      <img src="https://raw.githubusercontent.com/Treeo-App/.github/main/profile/assets/logo-light.svg" alt="Treeo" width="300">
+    </picture>
+  </a>
+</p>
+
+<br>
 
 <p align="center">
   <b>El cliente de escritorio para Firebase Firestore.</b><br>
