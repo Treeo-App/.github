@@ -1,20 +1,6 @@
-<br>
-
-<p align="center">
-  <a href="https://treeo.app">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Treeo-App/.github/main/profile/assets/logo-dark.svg">
-      <img src="https://raw.githubusercontent.com/Treeo-App/.github/main/profile/assets/logo-light.svg" alt="Treeo" width="300">
-    </picture>
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <b>The desktop client for Firebase Firestore.</b><br>
-  Browse, edit and query your data without leaving your desktop, with everything processed locally.
-</p>
+<a href="https://treeo.app">
+  <img src="https://raw.githubusercontent.com/Treeo-App/.github/main/profile/assets/banner.png" alt="Treeo: The desktop client for Firebase Firestore" width="100%">
+</a>
 
 <p align="center">
   <a href="https://treeo.app"><img alt="Website" src="https://img.shields.io/badge/treeo.app-15D58A?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
